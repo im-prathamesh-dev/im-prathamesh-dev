@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @im-prathamesh-dev
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML5, CSS, JAVASCRIPTS.
+- 🌱 I’m currently learning MERN Stack.
 - 📫 How to reach me prathamesh0755@gmail.com  
