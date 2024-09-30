@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="workflows/snake.svg" alt="Snake animation" />
+
 
 ###
