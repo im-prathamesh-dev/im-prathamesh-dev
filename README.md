@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Prathamesh Devrukhakar and I'm a Full Stack Developer, from Ahmednagar.</h2>
+<h2 align="left">Hi 👋! My name is Prathamesh Devrukhakar and I'm a Full Stack Web Developer, from Ahmednagar.</h2>
 
 ###
 
