@@ -1,4 +1,4 @@
-Hi, I'm Prathamesh! 👋🚀<br><br>💻 Full Stack Developer | MERN Enthusiast<br>🎓 MCA @ ZIBACAR<br>🌐 Building ZealTestHub, Gatherio, & more<br>🛠️ Tech Stack: HTML, CSS, JS, React (Vite), Node.js, MongoDB<br>📊 Love working on Web Apps, Analytics & Problem Solving
+Hi, I'm Prathamesh! 👋🚀<br><br>💻 Full Stack Developer | MERN Enthusiast<br>🎓 MCA @ ZIBACAR<br>🌐 Building ZealTestHub, TechMantra 2K25, & more<br>🛠️ Tech Stack: HTML, CSS, JS, React (Vite), Node.js, MongoDB<br>📊 Love working on Web Apps, Analytics & Problem Solving
 
 
 ## 🌐 Socials:
