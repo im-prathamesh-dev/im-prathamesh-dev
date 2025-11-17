@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | MERN & DevOps Enthusiast**  
 🎓 **MCA @ ZIBACAR**  
-🌐 Building **ZealTestHub**, **TechMantra 2K25**, **WerFreelancers**, **Savruda Innovation** tools & more  
+🌐 Building **ZealTestHub**, **TechMantra 2K25**, **WerFreelancers**, **Savruda Innovation**,**Brotein Bistro** Website's & more  
 💡 Passionate about **Web Apps, Dashboards, Analytics**, and solving real-world problems.
 
 ---
