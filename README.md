@@ -43,11 +43,18 @@
   <img src="https://img.shields.io/badge/Google%20for%20Developers-g.dev%2Fprathmesh--dev-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </a>
 
-| 🔗 Profile | 🏅 Earned Badges | 💼 Program |
-|:---:|:---:|:---:|
-| [g.dev/prathmesh-dev](https://g.dev/prathmesh-dev) | Google Developer Badges | Google Developer Program |
+<br/><br/>
 
-> 🏆 Actively participating in the **Google Developer Program** — earning badges through hands-on learning with Google technologies including **Google Cloud, Firebase, Android, and more**.
+### 🏅 Earned Badges — 17+ and counting!
+
+| Badge | Badge | Badge | Badge |
+|:---:|:---:|:---:|:---:|
+| ![Learning](https://img.shields.io/badge/Learning-34A853?style=flat-square&logo=google&logoColor=white) **Learning** | ![Firebase](https://img.shields.io/badge/Firebase%20Studio%20Dev%20Community-FF6F00?style=flat-square&logo=firebase&logoColor=white) **Firebase Studio Dev Community** | ![GDC](https://img.shields.io/badge/Google%20Developer%20Program%20Premium-4285F4?style=flat-square&logo=google&logoColor=white) **Google Developer Program Premium** | ![Google Skills](https://img.shields.io/badge/Google%20Skills-0F9D58?style=flat-square&logo=google&logoColor=white) **Google Skills** |
+| ![IO2024](https://img.shields.io/badge/I%2FO%202024%20Registrant-EA4335?style=flat-square&logo=google&logoColor=white) **I/O 2024 Registrant** | ![Gemma](https://img.shields.io/badge/Gemma%20for%20Agenda%20App-7B61FF?style=flat-square&logo=google&logoColor=white) **Gemma for Agenda App** | ![AgendaSummarizer](https://img.shields.io/badge/Agenda%20Summarizer%20App-FBBC04?style=flat-square&logo=google&logoColor=black) **Agenda Summarizer App** | ![GeminiExplore](https://img.shields.io/badge/Explore%20Gemini%20AI%20Agenda-4285F4?style=flat-square&logo=google&logoColor=white) **Explore Gemini AI Agenda** |
+| ![GemmaDevSuite](https://img.shields.io/badge/Gemma%20DevSuite%20User-7B61FF?style=flat-square&logo=google&logoColor=white) **Gemma DevSuite User** | ![IO2024Reg](https://img.shields.io/badge/I%2FO%202024%20Registered-EA4335?style=flat-square&logo=google&logoColor=white) **I/O 2024 Registered** | ![EnterpriseAgent](https://img.shields.io/badge/Gemini%20Enterprise%20Agent%20Studio-1A73E8?style=flat-square&logo=google&logoColor=white) **Gemini Enterprise Agent** | ![CloudInnovator](https://img.shields.io/badge/Google%20Cloud%20Innovator-4285F4?style=flat-square&logo=googlecloud&logoColor=white) **Google Cloud Innovator** |
+| ![CloudGDG](https://img.shields.io/badge/Google%20Cloud%20for%20GDG-4285F4?style=flat-square&logo=googlecloud&logoColor=white) **Google Cloud for GDG** | ![AndroidStudio](https://img.shields.io/badge/Android%20Studio%20User-3DDC84?style=flat-square&logo=androidstudio&logoColor=white) **Android Studio User** | ![JoinedGDC](https://img.shields.io/badge/Joined%20Google%20Dev%20Community-34A853?style=flat-square&logo=google&logoColor=white) **Joined Google Dev Community** | ![AgendaGemini](https://img.shields.io/badge/Agenda%20Gemini%20App-7B61FF?style=flat-square&logo=google&logoColor=white) **Agenda Gemini App** |
+
+> 🔗 View full profile & all badges at **[g.dev/prathmesh-dev](https://g.dev/prathmesh-dev)**
 
 </div>
 
@@ -93,10 +100,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Im-prathamesh-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prathamesh-dev&theme=tokyonight&hide_border=true&layout=compact" height="180" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Im-prathamesh-dev&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-prathamesh-dev&theme=tokyonight&hide_border=true&layout=compact" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Im-prathamesh-dev&theme=tokyonight&hide_border=true" />
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=Im-prathamesh-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -106,7 +115,7 @@
 
 <div align="center">
 
-![](https://github-profile-trophy.vercel.app/?username=Im-prathamesh-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7)
+<img src="https://github-profile-trophy.vercel.app/?username=Im-prathamesh-dev&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=4" />
 
 </div>
 
@@ -116,7 +125,7 @@
 
 <div align="center">
 
-![](https://github-contributor-stats.vercel.app/api?username=Im-prathamesh-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+<img src="https://github-contributor-stats.vercel.app/api?username=Im-prathamesh-dev&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" />
 
 </div>
 
